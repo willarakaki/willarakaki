@@ -21,7 +21,7 @@ Currently pursuing a degree in **Systems Analysis and Development at FIAP**, com
 
 ## 🚀 Featured Project
 
-### [SentinelOps — Autonomous AI Dispute Resolution System](https://github.com/SEU-USUARIO/sentinelops)
+### [SentinelOps — Autonomous AI Dispute Resolution System](https://github.com/willarakaki/sentinel-ops)
 
 Enterprise-grade Multi-Agent system engineered to automate financial disputes, chargebacks, and logistics issues in high-volume platforms.
 
@@ -43,7 +43,7 @@ Enterprise-grade Multi-Agent system engineered to automate financial disputes, c
 | Adversarial Security Benchmark (Red Team) | **100% blocked (20/20)** |
 | Complex Partial-Refund Accuracy | **100% (14/14)** |
 
-👉 **[Explore the SentinelOps Repository](https://github.com/SEU-USUARIO/sentinelops)**
+👉 **[Explore the SentinelOps Repository](https://github.com/willarakaki/sentinel-ops)**
 
 ---
 
