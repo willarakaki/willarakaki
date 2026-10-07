@@ -60,7 +60,7 @@ Currently pursuing a degree in **Systems Analysis and Development** at **FIAP** 
 | **Adversarial Benchmark (Red Team)** | Vulnerable to injection | **100% blocked** (20/20 cases) | Zero jailbreaks via **Prompt Guard 2** |
 | **Deterministic Partial-Refunds** | Inconsistent / Manual | **100% precision** (14/14 cases) | Deterministic agent reconciliation |
 
-* 🔗 **Repository:** [SentinelOps Codebase](https://github.com/willarakaki/sentinelops)
+* 🔗 **Repository:** [SentinelOps Codebase](https://github.com/willarakaki/sentinel-ops)
 
 ---
 
